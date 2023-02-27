@@ -1,0 +1,13 @@
+.cont_main{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a2c2cd92;
+    width: 500px;
+}
+
+.cont_main p{
+    font-size: 30px;
+    color: rgb(0, 51, 77);
+}
