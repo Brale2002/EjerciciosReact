@@ -8,9 +8,6 @@ import {Footer} from '../Layouts/Footer/Footer'
 export const Home = () => {
   return (
     <>
-    <header>
-      <Header />
-    </header>
     <main>
       <Main />
     </main>
