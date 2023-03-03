@@ -3,11 +3,33 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 1px solid #0a5980;
     background-color: #a2c2cd92;
     width: 500px;
+    margin: 20px;
 }
 
 .cont_main p{
     font-size: 30px;
     color: rgb(0, 51, 77);
+}
+
+.contenidoCount{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.buttons button{
+    margin: 10px;
+    padding: 20px;
+    background: #a2c2cdc7;
+    border: 1px solid #0a5980;
+    font-size: 20px;
+}
+
+.buttons button:hover{
+    background: #12526792;
+    cursor: pointer;
 }

@@ -1,15 +1,15 @@
 import React from 'react'
 
-import {Header} from '../Layouts/Header/Header'
-import {Main} from '../Layouts/Main/Main'
+//import {Main} from '../Layouts/Main/Main'
 import {Footer} from '../Layouts/Footer/Footer'
+import {Contador} from '../Contador/Contador'
 
 
 export const Home = () => {
   return (
     <>
     <main>
-      <Main />
+      <Contador />
     </main>
     <footer>
       <Footer />

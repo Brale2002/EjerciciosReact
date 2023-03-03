@@ -1,9 +1,9 @@
 import { Home } from './components/Pages/Home'
 import { Routes, Route } from 'react-router-dom'
-import { NotFount } from './components/NotFound/NotFount'
-import { Modulo1 } from './components/modulo1/Modulo1'
-import { Modulo2 } from './components/modulo2/Modulo2'
-import { Modulo3 } from './components/modulo3/Modulo3'
+import { NotFount } from './components/UI/Moduls/NotFound/NotFount'
+import { Modulo1 } from './components/UI/Moduls/modulo1/Modulo1'
+import { Modulo2 } from './components/UI/Moduls/modulo2/Modulo2'
+import { Modulo3 } from './components/UI/Moduls/modulo3/Modulo3'
 
 import { Header } from './components/Layouts/Header/Header'
 
